@@ -1,4 +1,5 @@
 # Assignment-3-Question-1
+Unzip the a3.zip
 Import the project into Eclipse
 If the JDBC jar is missing than follow the instructions located on the following link to attach the jar to the imported project
 https://examples.javacodegeeks.com/java-development/core-java/sql/java-jdbc-postgresql-connection-example/
